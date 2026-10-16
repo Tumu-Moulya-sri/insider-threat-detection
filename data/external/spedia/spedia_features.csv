@@ -1,0 +1,232 @@
+user_id,date,department,role,total_events,off_hours_events,num_logins,login_failed,num_logoffs,session_events,commands_executed,unique_commands,high_level_commands,files_accessed,files_modified,files_added,files_deleted,total_file_events,emails_sent,external_emails,total_attachments,total_email_size_kb,http_requests,unique_urls,usb_connects,usb_disconnects,device_events,security_tampering_flag,spedia_anomaly_event_count,spedia_is_malicious_day
+camilo,2025-03-06,Public Host / DMZ,Public Server Operator,120,0,2,0,3,5,32,7,20,8,17,3,3,31,0,0,0,0.0,41,39,4,7,11,1,0,0
+humberto,2025-03-06,Internal Enterprise Server,Internal Systems Operator,51,0,6,0,4,10,0,0,0,2,5,0,0,7,4,2,0,127.14,26,26,0,4,4,0,0,0
+impresora,2025-03-06,Public Host / DMZ,Public Server Operator,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+irene,2025-03-06,Public Host / DMZ,Public Server Operator,1323,156,8,0,5,13,125,11,69,228,3,2,4,237,522,202,171,15134.32,342,229,38,46,84,1,1181,1
+luis,2025-03-06,Internal Enterprise Server,Internal Systems Operator,24,0,4,2,0,6,12,4,2,0,2,4,0,6,0,0,0,0.0,0,0,0,0,0,0,24,1
+olaya,2025-03-06,Internal Enterprise Server,Internal Systems Operator,98,0,6,1,4,11,0,0,0,6,6,5,4,21,8,4,2,205.96,57,54,0,1,1,0,0,0
+root,2025-03-06,Public Host / DMZ,Public Server Operator,36,0,14,0,22,36,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,18,1
+root(uid=0),2025-03-06,Red Team / Target Host,Endpoint Host Account,10,0,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,10,1
+ubuntu,2025-03-06,Red Team / Target Host,Endpoint Host Account,222,0,0,1,0,1,206,16,98,0,3,11,1,15,0,0,0,0.0,0,0,0,0,0,1,222,1
+ubuntu(uid=1000),2025-03-06,Red Team / Target Host,Endpoint Host Account,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+camilo,2025-03-07,Public Host / DMZ,Public Server Operator,321,82,6,0,3,9,89,7,57,27,25,6,6,64,14,7,12,473.59,84,75,31,30,61,1,0,0
+humberto,2025-03-07,Internal Enterprise Server,Internal Systems Operator,323,34,34,0,17,51,0,0,0,19,34,8,8,69,44,20,28,1302.57,153,113,5,1,6,0,0,0
+irene,2025-03-07,Public Host / DMZ,Public Server Operator,816,579,24,1,6,31,223,12,68,98,14,14,6,132,233,99,91,6776.85,156,121,14,27,41,1,534,1
+olaya,2025-03-07,Internal Enterprise Server,Internal Systems Operator,424,49,16,2,8,26,0,0,0,30,21,7,13,71,67,29,21,1904.4,250,175,5,5,10,0,0,0
+root,2025-03-07,Public Host / DMZ,Public Server Operator,74,28,28,0,32,60,14,5,9,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,8,1
+root(uid=0),2025-03-07,Red Team / Target Host,Endpoint Host Account,4,4,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,1
+ubuntu,2025-03-07,Red Team / Target Host,Endpoint Host Account,42,42,0,0,0,0,42,5,3,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,42,1
+camilo,2025-03-08,Public Host / DMZ,Public Server Operator,364,364,12,0,8,20,113,7,56,22,34,4,4,64,8,1,2,241.07,109,85,27,23,50,1,0,0
+humberto,2025-03-08,Internal Enterprise Server,Internal Systems Operator,317,317,34,0,17,51,0,0,0,13,38,3,3,57,45,19,21,1370.97,155,121,6,3,9,0,0,0
+irene,2025-03-08,Public Host / DMZ,Public Server Operator,265,265,6,0,3,9,64,8,5,21,1,6,11,39,73,26,23,2186.38,73,63,3,4,7,0,0,0
+olaya,2025-03-08,Internal Enterprise Server,Internal Systems Operator,461,461,13,2,5,20,0,0,0,26,23,16,21,86,82,31,15,2313.6,256,190,6,11,17,0,0,0
+root,2025-03-08,Public Host / DMZ,Public Server Operator,62,62,24,0,24,48,14,5,9,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+root(uid=0),2025-03-08,Red Team / Target Host,Endpoint Host Account,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+camilo,2025-03-09,Public Host / DMZ,Public Server Operator,335,335,10,0,7,17,91,7,42,24,22,5,5,56,13,4,5,354.48,111,98,21,26,47,1,0,0
+humberto,2025-03-09,Internal Enterprise Server,Internal Systems Operator,249,249,8,0,3,11,0,0,0,10,33,1,0,44,44,18,19,1385.17,143,113,3,4,7,0,0,0
+irene,2025-03-09,Public Host / DMZ,Public Server Operator,304,304,8,0,5,13,76,8,7,23,0,7,7,37,92,36,26,2622.0,78,65,3,5,8,0,0,0
+olaya,2025-03-09,Internal Enterprise Server,Internal Systems Operator,517,517,1,0,1,2,0,0,0,37,35,29,16,117,93,29,16,2856.99,289,196,10,6,16,0,0,0
+root,2025-03-09,Public Host / DMZ,Public Server Operator,74,74,24,0,35,59,15,5,9,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,25,1
+root(uid=0),2025-03-09,Red Team / Target Host,Endpoint Host Account,11,11,11,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,10,1
+ubuntu,2025-03-09,Red Team / Target Host,Endpoint Host Account,48,48,0,0,0,0,48,8,7,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,48,1
+wazuh,2025-03-09,Red Team / Target Host,Endpoint Host Account,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-09,Red Team / Target Host,Endpoint Host Account,8,8,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,8,1
+camilo,2025-03-10,Public Host / DMZ,Public Server Operator,327,84,8,0,5,13,83,7,43,31,25,4,4,64,10,4,3,324.91,105,87,27,25,52,1,0,0
+humberto,2025-03-10,Internal Enterprise Server,Internal Systems Operator,264,31,30,0,16,46,0,0,0,12,30,3,5,50,43,21,18,1244.98,123,93,1,1,2,0,0,0
+irene,2025-03-10,Public Host / DMZ,Public Server Operator,327,55,8,0,5,13,56,8,6,30,3,3,0,36,129,62,42,3736.01,89,77,2,2,4,0,0,0
+olaya,2025-03-10,Internal Enterprise Server,Internal Systems Operator,484,46,10,0,5,15,0,0,0,31,14,10,16,71,90,38,23,2502.9,293,199,5,10,15,0,0,0
+root,2025-03-10,Public Host / DMZ,Public Server Operator,72,42,23,0,34,57,15,5,10,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,21,1
+root(uid=0),2025-03-10,Red Team / Target Host,Endpoint Host Account,11,11,11,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,10,1
+ubuntu,2025-03-10,Red Team / Target Host,Endpoint Host Account,43,43,0,1,0,1,42,9,19,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,43,1
+ubuntu(uid=1000),2025-03-10,Red Team / Target Host,Endpoint Host Account,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,1
+wazuh(uid=129),2025-03-10,Red Team / Target Host,Endpoint Host Account,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,1
+camilo,2025-03-11,Public Host / DMZ,Public Server Operator,299,55,8,0,4,12,62,6,27,28,22,4,4,58,6,1,3,218.91,101,78,39,21,60,1,0,0
+humberto,2025-03-11,Internal Enterprise Server,Internal Systems Operator,239,20,4,0,1,5,0,0,0,13,29,3,1,46,36,10,17,1026.39,145,104,3,4,7,0,0,0
+irene,2025-03-11,Public Host / DMZ,Public Server Operator,255,34,8,0,4,12,40,7,3,21,3,8,12,44,92,31,38,2603.83,60,53,1,6,7,0,0,0
+olaya,2025-03-11,Internal Enterprise Server,Internal Systems Operator,446,31,8,1,3,12,0,0,0,31,38,19,14,102,93,36,62,2562.89,223,160,6,10,16,0,0,0
+root,2025-03-11,Public Host / DMZ,Public Server Operator,58,32,18,0,26,44,14,5,9,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,16,1
+root(uid=0),2025-03-11,Red Team / Target Host,Endpoint Host Account,7,6,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,6,1
+ubuntu,2025-03-11,Red Team / Target Host,Endpoint Host Account,74,74,0,0,0,0,74,10,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,74,1
+wazuh(uid=129),2025-03-11,Red Team / Target Host,Endpoint Host Account,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+camilo,2025-03-12,Public Host / DMZ,Public Server Operator,238,41,0,0,0,0,0,0,0,29,27,5,5,66,12,7,6,377.59,109,85,18,33,51,0,0,0
+humberto,2025-03-12,Internal Enterprise Server,Internal Systems Operator,304,25,34,0,18,52,0,0,0,20,44,2,1,67,47,20,10,1286.93,130,97,1,7,8,0,0,0
+irene,2025-03-12,Public Host / DMZ,Public Server Operator,175,19,0,0,0,0,0,0,0,24,0,5,5,34,77,31,14,2206.8,58,50,2,4,6,0,0,0
+olaya,2025-03-12,Internal Enterprise Server,Internal Systems Operator,449,41,10,3,5,18,0,0,0,29,30,15,20,94,69,24,18,2005.24,254,176,7,7,14,0,0,0
+root,2025-03-12,Red Team / Target Host,Endpoint Host Account,11,11,2,0,9,11,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,11,1
+root(uid=0),2025-03-12,Red Team / Target Host,Endpoint Host Account,7,5,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,5,1
+ubuntu,2025-03-12,Red Team / Target Host,Endpoint Host Account,27,15,0,0,0,0,27,8,11,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,27,1
+ubuntu(uid=1000),2025-03-12,Red Team / Target Host,Endpoint Host Account,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-12,Red Team / Target Host,Endpoint Host Account,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+camilo,2025-03-13,Public Host / DMZ,Public Server Operator,227,52,0,0,0,0,0,0,0,19,22,5,5,51,9,6,2,247.5,112,96,27,28,55,0,0,0
+humberto,2025-03-13,Internal Enterprise Server,Internal Systems Operator,286,21,28,0,15,43,0,0,0,9,38,6,7,60,40,15,32,1200.7,134,110,5,4,9,0,0,0
+irene,2025-03-13,Public Host / DMZ,Public Server Operator,179,14,0,0,0,0,0,0,0,23,0,1,1,25,73,27,26,2056.37,76,64,2,3,5,0,0,0
+olaya,2025-03-13,Internal Enterprise Server,Internal Systems Operator,518,39,18,6,10,34,0,0,0,29,50,18,8,105,86,33,41,2487.88,281,194,6,6,12,1,0,0
+root(uid=0),2025-03-13,Red Team / Target Host,Endpoint Host Account,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+camilo,2025-03-14,Public Host / DMZ,Public Server Operator,266,45,12,0,10,22,0,0,0,44,28,5,4,81,7,4,5,186.17,109,91,27,20,47,0,0,0
+humberto,2025-03-14,Internal Enterprise Server,Internal Systems Operator,301,32,32,0,18,50,0,0,0,15,24,5,3,47,40,16,11,1099.0,153,116,5,6,11,0,0,0
+irene,2025-03-14,Public Host / DMZ,Public Server Operator,509,102,10,0,8,18,28,10,12,70,2,7,6,85,202,83,66,5682.22,141,110,16,19,35,0,317,1
+nuria,2025-03-14,Internal Enterprise Server,Internal Systems Operator,15,4,4,0,3,7,4,2,0,0,2,2,0,4,0,0,0,0.0,0,0,0,0,0,0,15,1
+olaya,2025-03-14,Internal Enterprise Server,Internal Systems Operator,415,0,24,2,12,38,0,0,0,22,32,21,30,105,65,28,32,1835.98,199,154,3,5,8,0,0,0
+root,2025-03-14,Public Host / DMZ,Public Server Operator,55,13,21,0,33,54,0,0,0,0,0,0,1,1,0,0,0,0.0,0,0,0,0,0,0,15,1
+root(uid=0),2025-03-14,Red Team / Target Host,Endpoint Host Account,16,10,16,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,15,1
+ubuntu,2025-03-14,Red Team / Target Host,Endpoint Host Account,229,33,0,1,1,2,222,15,67,0,1,4,0,5,0,0,0,0.0,0,0,0,0,0,1,229,1
+ubuntu(uid=1000),2025-03-14,Red Team / Target Host,Endpoint Host Account,3,2,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,1
+wazuh(uid=129),2025-03-14,Red Team / Target Host,Endpoint Host Account,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,1
+camilo,2025-03-15,Public Host / DMZ,Public Server Operator,254,254,8,0,5,13,0,0,0,27,48,5,5,85,10,3,2,312.46,95,74,23,28,51,0,0,0
+humberto,2025-03-15,Internal Enterprise Server,Internal Systems Operator,286,286,22,0,9,31,0,0,0,16,34,3,2,55,49,19,34,1391.52,142,110,2,7,9,0,0,0
+irene,2025-03-15,Public Host / DMZ,Public Server Operator,223,223,8,0,4,12,0,0,0,22,0,17,5,44,90,32,19,2468.42,66,56,6,5,11,0,0,0
+olaya,2025-03-15,Internal Enterprise Server,Internal Systems Operator,424,424,7,1,3,11,0,0,0,38,29,14,10,91,73,32,31,2181.79,238,177,4,7,11,0,0,0
+root,2025-03-15,Public Host / DMZ,Public Server Operator,140,140,57,0,79,136,0,0,0,0,3,1,0,4,0,0,0,0.0,0,0,0,0,0,0,84,1
+root(uid=0),2025-03-15,Red Team / Target Host,Endpoint Host Account,24,24,24,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,23,1
+ubuntu,2025-03-15,Red Team / Target Host,Endpoint Host Account,151,151,0,0,0,0,149,12,36,0,1,1,0,2,0,0,0,0.0,0,0,0,0,0,1,151,1
+ubuntu(uid=1000),2025-03-15,Red Team / Target Host,Endpoint Host Account,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+wazuh,2025-03-15,Public Host / DMZ,Public Server Operator,3,3,0,0,0,0,1,1,1,0,2,0,0,2,0,0,0,0.0,0,0,0,0,0,0,3,1
+wazuh(uid=129),2025-03-15,Red Team / Target Host,Endpoint Host Account,9,9,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,9,1
+camilo,2025-03-16,Public Host / DMZ,Public Server Operator,205,205,12,0,8,20,0,0,0,20,43,5,5,73,4,1,2,134.41,78,64,14,16,30,0,0,0
+humberto,2025-03-16,Internal Enterprise Server,Internal Systems Operator,274,274,22,0,10,32,0,0,0,10,19,2,2,33,38,18,10,1139.81,166,114,3,2,5,0,0,0
+irene,2025-03-16,Public Host / DMZ,Public Server Operator,208,208,4,0,3,7,0,0,0,39,1,3,5,48,79,35,22,2248.46,69,60,3,2,5,0,0,0
+olaya,2025-03-16,Internal Enterprise Server,Internal Systems Operator,12,12,1,0,0,1,0,0,0,0,1,1,0,2,1,1,0,23.67,8,8,0,0,0,0,0,0
+root,2025-03-16,Public Host / DMZ,Public Server Operator,69,69,31,0,38,69,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,9,1
+root(uid=0),2025-03-16,Red Team / Target Host,Endpoint Host Account,7,7,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,6,1
+ubuntu,2025-03-16,Red Team / Target Host,Endpoint Host Account,150,150,0,1,0,1,148,13,41,0,1,0,0,1,0,0,0,0.0,0,0,0,0,0,1,150,1
+ubuntu(uid=1000),2025-03-16,Red Team / Target Host,Endpoint Host Account,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+camilo,2025-03-17,Public Host / DMZ,Public Server Operator,234,47,14,0,9,23,0,0,0,30,26,4,4,64,13,4,1,421.43,91,67,25,18,43,0,0,0
+humbeMar,2025-03-17,Internal Enterprise Server,Internal Systems Operator,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+humberto,2025-03-17,Internal Enterprise Server,Internal Systems Operator,311,26,29,0,16,45,0,0,0,15,28,2,2,47,44,23,34,1206.36,164,130,5,6,11,0,0,0
+irene,2025-03-17,Public Host / DMZ,Public Server Operator,238,36,10,0,7,17,0,0,0,28,0,8,12,48,78,36,40,2297.07,91,79,1,3,4,0,0,0
+olaya,2025-03-17,Internal Enterprise Server,Internal Systems Operator,243,0,12,1,7,20,0,0,0,12,15,10,3,40,37,18,15,968.66,141,113,4,1,5,0,0,0
+root,2025-03-17,Public Host / DMZ,Public Server Operator,78,21,30,0,48,78,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,35,1
+root(uid=0),2025-03-17,Red Team / Target Host,Endpoint Host Account,21,15,21,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,20,1
+ubuntu,2025-03-17,Red Team / Target Host,Endpoint Host Account,27,12,0,0,0,0,25,7,13,0,0,2,0,2,0,0,0,0.0,0,0,0,0,0,0,27,1
+ubuntu(uid=1000),2025-03-17,Red Team / Target Host,Endpoint Host Account,2,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+wazuh(uid=129),2025-03-17,Red Team / Target Host,Endpoint Host Account,14,12,14,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,14,1
+camilo,2025-03-18,Public Host / DMZ,Public Server Operator,242,34,14,0,9,23,0,0,0,22,17,2,2,43,11,6,2,304.59,121,97,23,21,44,0,0,0
+humberto,2025-03-18,Internal Enterprise Server,Internal Systems Operator,259,17,12,0,6,18,0,0,0,19,37,0,0,56,40,19,14,1117.79,137,99,3,5,8,0,0,0
+irene,2025-03-18,Public Host / DMZ,Public Server Operator,201,24,6,0,3,9,0,0,0,16,0,3,6,25,95,38,38,2738.58,67,57,1,4,5,0,0,0
+olaya,2025-03-18,Internal Enterprise Server,Internal Systems Operator,453,48,2,0,0,2,0,0,0,29,16,7,17,69,83,33,40,2265.87,286,191,7,6,13,0,0,0
+root,2025-03-18,Public Host / DMZ,Public Server Operator,79,51,30,0,31,61,18,5,10,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,45,1
+root(uid=0),2025-03-18,Red Team / Target Host,Endpoint Host Account,2,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+camilo,2025-03-19,Public Host / DMZ,Public Server Operator,231,49,4,0,2,6,0,0,0,28,25,3,2,58,3,0,0,82.68,109,82,24,31,55,0,0,0
+humberto,2025-03-19,Internal Enterprise Server,Internal Systems Operator,322,20,38,0,21,59,0,0,0,12,35,5,7,59,41,16,13,1190.31,156,110,2,5,7,0,0,0
+irene,2025-03-19,Public Host / DMZ,Public Server Operator,218,9,10,0,5,15,0,0,0,19,0,6,11,36,85,35,30,2645.67,73,62,4,5,9,0,0,0
+olaya,2025-03-19,Internal Enterprise Server,Internal Systems Operator,528,49,18,3,9,30,0,0,0,28,27,10,11,76,88,30,42,2548.13,320,198,5,9,14,0,0,0
+root,2025-03-19,Public Host / DMZ,Public Server Operator,64,36,19,0,19,38,26,5,18,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,26,1
+root(uid=0),2025-03-19,Red Team / Target Host,Endpoint Host Account,3,3,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+camilo,2025-03-20,Public Host / DMZ,Public Server Operator,235,56,8,0,4,12,0,0,0,34,30,5,5,74,9,3,10,316.23,95,76,25,20,45,0,0,0
+humberto,2025-03-20,Internal Enterprise Server,Internal Systems Operator,401,18,70,0,36,106,0,0,0,19,55,3,3,80,35,17,8,1028.53,175,134,2,3,5,0,0,0
+irene,2025-03-20,Public Host / DMZ,Public Server Operator,189,9,4,0,2,6,0,0,0,28,0,1,2,31,98,40,43,2898.72,47,43,6,1,7,0,0,0
+olaya,2025-03-20,Internal Enterprise Server,Internal Systems Operator,472,52,16,1,8,25,0,0,0,26,14,6,1,47,79,36,21,2369.61,301,198,9,11,20,0,0,0
+root,2025-03-20,Public Host / DMZ,Public Server Operator,46,6,23,0,23,46,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+root(uid=0),2025-03-20,Red Team / Target Host,Endpoint Host Account,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0
+camilo,2025-03-21,Public Host / DMZ,Public Server Operator,242,50,12,0,9,21,0,0,0,24,26,5,4,59,10,4,2,275.54,115,90,14,23,37,0,0,0
+humberto,2025-03-21,Internal Enterprise Server,Internal Systems Operator,314,27,22,0,10,32,0,0,0,16,49,5,3,73,42,19,21,1076.07,162,123,1,4,5,0,0,0
+irene,2025-03-21,Public Host / DMZ,Public Server Operator,629,21,8,0,3,11,28,10,14,86,2,6,1,95,272,96,87,7936.65,175,136,23,25,48,0,417,1
+nuria,2025-03-21,Internal Enterprise Server,Internal Systems Operator,14,0,2,2,0,4,6,3,1,0,1,3,0,4,0,0,0,0.0,0,0,0,0,0,0,14,1
+olaya,2025-03-21,Internal Enterprise Server,Internal Systems Operator,415,37,6,0,2,8,0,0,0,14,16,7,3,40,99,44,38,2755.57,250,167,8,10,18,0,0,0
+root,2025-03-21,Public Host / DMZ,Public Server Operator,63,14,24,0,39,63,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,23,1
+root(uid=0),2025-03-21,Red Team / Target Host,Endpoint Host Account,19,8,19,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,17,1
+ubuntu,2025-03-21,Red Team / Target Host,Endpoint Host Account,170,55,0,3,0,3,157,17,31,0,1,6,3,10,0,0,0,0.0,0,0,0,0,0,1,170,1
+ubuntu(uid=1000),2025-03-21,Red Team / Target Host,Endpoint Host Account,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh,2025-03-21,Red Team / Target Host,Endpoint Host Account,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-21,Red Team / Target Host,Endpoint Host Account,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,1
+camilo,2025-03-22,Public Host / DMZ,Public Server Operator,257,257,8,0,5,13,0,0,0,27,52,3,3,85,14,2,8,396.42,101,88,21,23,44,0,0,0
+humberto,2025-03-22,Internal Enterprise Server,Internal Systems Operator,309,309,45,0,23,68,0,0,0,10,41,1,1,53,52,24,34,1490.87,131,109,1,4,5,0,0,0
+impresora,2025-03-22,Public Host / DMZ,Public Server Operator,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+irene,2025-03-22,Public Host / DMZ,Public Server Operator,225,225,12,0,6,18,0,0,0,34,0,8,10,52,90,34,46,2492.17,54,47,8,3,11,0,0,0
+olaya,2025-03-22,Internal Enterprise Server,Internal Systems Operator,98,98,8,0,4,12,0,0,0,9,5,5,1,20,11,3,8,328.42,53,49,2,0,2,0,0,0
+root,2025-03-22,Public Host / DMZ,Public Server Operator,81,81,32,0,49,81,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,19,1
+root(uid=0),2025-03-22,Red Team / Target Host,Endpoint Host Account,19,19,19,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,18,1
+ubuntu,2025-03-22,Red Team / Target Host,Endpoint Host Account,101,101,0,0,0,0,101,13,52,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,101,1
+camilo,2025-03-23,Public Host / DMZ,Public Server Operator,217,217,8,0,5,13,0,0,0,30,21,8,7,66,8,5,3,255.48,80,71,20,30,50,0,0,0
+delia,2025-03-23,Internal Enterprise Server,Internal Systems Operator,13,13,2,0,0,2,8,4,3,0,1,2,0,3,0,0,0,0.0,0,0,0,0,0,0,13,1
+humberto,2025-03-23,Internal Enterprise Server,Internal Systems Operator,283,283,41,0,21,62,0,0,0,17,44,5,4,70,31,16,6,957.76,115,92,3,2,5,0,0,0
+impresora,2025-03-23,Public Host / DMZ,Public Server Operator,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+irene,2025-03-23,Public Host / DMZ,Public Server Operator,4935,4935,21,0,9,30,2592,11,2521,401,5,11,11,428,1070,439,368,31296.2,630,330,88,97,185,1,4666,1
+nuria,2025-03-23,Internal Enterprise Server,Internal Systems Operator,7,7,2,0,0,2,4,3,0,0,0,1,0,1,0,0,0,0.0,0,0,0,0,0,0,7,1
+olaya,2025-03-23,Internal Enterprise Server,Internal Systems Operator,473,473,22,1,12,35,0,0,0,24,30,14,16,84,68,29,34,1918.23,275,171,7,4,11,0,0,0
+root,2025-03-23,Public Host / DMZ,Public Server Operator,64,64,28,0,36,64,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,20,1
+root(uid=0),2025-03-23,Red Team / Target Host,Endpoint Host Account,13,13,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,12,1
+ubuntu,2025-03-23,Red Team / Target Host,Endpoint Host Account,311,311,0,1,0,1,293,16,56,0,2,11,4,17,0,0,0,0.0,0,0,0,0,0,1,311,1
+ubuntu(uid=1000),2025-03-23,Red Team / Target Host,Endpoint Host Account,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-23,Red Team / Target Host,Endpoint Host Account,2,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+camilo,2025-03-24,Public Host / DMZ,Public Server Operator,218,39,6,1,3,10,0,0,0,21,28,6,6,61,12,5,0,396.03,91,80,14,30,44,0,1,1
+humberto,2025-03-24,Internal Enterprise Server,Internal Systems Operator,274,21,18,0,10,28,0,0,0,13,49,5,3,70,47,11,37,1267.62,123,97,6,0,6,0,0,0
+irene,2025-03-24,Public Host / DMZ,Public Server Operator,2530,1420,8,0,4,12,60,11,29,440,4,3,1,448,1130,485,354,32936.67,682,350,94,104,198,1,2345,1
+nuria,2025-03-24,Internal Enterprise Server,Internal Systems Operator,18,18,4,0,3,7,7,3,1,0,3,1,0,4,0,0,0,0.0,0,0,0,0,0,0,18,1
+olaya,2025-03-24,Internal Enterprise Server,Internal Systems Operator,472,43,10,1,7,18,0,0,0,38,30,11,8,87,77,33,37,2181.67,275,200,8,7,15,0,0,0
+root,2025-03-24,Public Host / DMZ,Public Server Operator,113,70,27,0,58,85,28,5,20,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,73,1
+root(uid=0),2025-03-24,Red Team / Target Host,Endpoint Host Account,36,26,36,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,35,1
+ubuntu,2025-03-24,Red Team / Target Host,Endpoint Host Account,276,192,0,0,0,0,258,20,66,0,5,10,3,18,0,0,0,0.0,0,0,0,0,0,1,276,1
+ubuntu(uid=1000),2025-03-24,Red Team / Target Host,Endpoint Host Account,4,2,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,4,1
+wazuh,2025-03-24,Public Host / DMZ,Public Server Operator,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-24,Red Team / Target Host,Endpoint Host Account,6,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,6,1
+camilo,2025-03-25,Public Host / DMZ,Public Server Operator,509,345,10,0,6,16,0,0,0,117,39,7,7,170,65,29,22,1802.3,190,152,35,33,68,0,308,1
+gdm,2025-03-25,Red Team / Target Host,Endpoint Host Account,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+humberto,2025-03-25,Internal Enterprise Server,Internal Systems Operator,282,24,33,0,18,51,0,0,0,9,33,5,4,51,43,17,21,1276.19,128,102,7,2,9,0,0,0
+irene,2025-03-25,Public Host / DMZ,Public Server Operator,2799,2327,14,1,5,20,166,12,122,452,6,5,8,471,1225,498,383,35834.53,687,357,114,116,230,1,2580,1
+nuria,2025-03-25,Internal Enterprise Server,Internal Systems Operator,10,0,2,0,1,3,4,2,0,0,1,2,0,3,0,0,0,0.0,0,0,0,0,0,0,10,1
+olaya,2025-03-25,Internal Enterprise Server,Internal Systems Operator,563,160,14,1,6,21,6,3,1,45,38,19,21,123,96,50,21,2813.1,289,190,15,13,28,0,112,1
+root,2025-03-25,Public Host / DMZ,Public Server Operator,177,66,69,0,108,177,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,111,1
+root(uid=0),2025-03-25,Red Team / Target Host,Endpoint Host Account,37,26,37,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,36,1
+ubuntu,2025-03-25,Red Team / Target Host,Endpoint Host Account,439,301,0,0,0,0,427,19,104,0,5,7,0,12,0,0,0,0.0,0,0,0,0,0,1,439,1
+ubuntu(uid=1000),2025-03-25,Red Team / Target Host,Endpoint Host Account,8,4,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,8,1
+wazuh,2025-03-25,Red Team / Target Host,Endpoint Host Account,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-25,Red Team / Target Host,Endpoint Host Account,10,7,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,10,1
+camilo,2025-03-26,Public Host / DMZ,Public Server Operator,250,57,12,0,7,19,0,0,0,28,16,7,7,58,8,2,6,200.34,98,80,38,29,67,0,0,0
+gdm,2025-03-26,Red Team / Target Host,Endpoint Host Account,2,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+humberto,2025-03-26,Internal Enterprise Server,Internal Systems Operator,809,311,44,0,24,68,0,0,0,163,44,3,5,215,203,79,93,6162.64,261,191,34,28,62,0,488,1
+irene,2025-03-26,Public Host / DMZ,Public Server Operator,3699,1741,16,2,5,23,211,10,111,598,7,7,4,616,1533,646,482,44783.82,1003,469,145,168,313,1,3494,1
+nuria,2025-03-26,Internal Enterprise Server,Internal Systems Operator,3,0,2,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0.0,0,0,0,0,0,0,3,1
+olaya,2025-03-26,Internal Enterprise Server,Internal Systems Operator,509,68,28,6,15,49,0,0,0,30,47,7,10,94,78,37,28,2276.66,275,185,7,6,13,1,4,1
+root,2025-03-26,Internal Enterprise Server,Internal Systems Operator,216,125,69,0,120,189,27,5,18,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,180,1
+root(uid=0),2025-03-26,Red Team / Target Host,Endpoint Host Account,63,31,63,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,61,1
+ubuntu,2025-03-26,Red Team / Target Host,Endpoint Host Account,596,499,0,2,0,2,581,16,123,0,5,7,1,13,0,0,0,0.0,0,0,0,0,0,1,596,1
+ubuntu(uid=1000),2025-03-26,Red Team / Target Host,Endpoint Host Account,7,3,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,7,1
+wazuh,2025-03-26,Public Host / DMZ,Public Server Operator,7,5,0,0,0,0,2,1,2,0,5,0,0,5,0,0,0,0.0,0,0,0,0,0,0,7,1
+wazuh(uid=129),2025-03-26,Red Team / Target Host,Endpoint Host Account,34,19,34,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,34,1
+camilo,2025-03-27,Public Host / DMZ,Public Server Operator,227,48,17,1,11,29,0,0,0,41,20,5,5,71,11,6,1,327.87,84,70,16,16,32,0,1,1
+humberto,2025-03-27,Internal Enterprise Server,Internal Systems Operator,264,24,10,0,5,15,0,0,0,11,35,2,2,50,44,18,6,1387.8,148,115,3,4,7,0,0,0
+impresora,2025-03-27,Public Host / DMZ,Public Server Operator,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+irene,2025-03-27,Public Host / DMZ,Public Server Operator,1659,1152,23,0,8,31,224,10,140,225,10,9,11,255,640,264,229,18566.95,394,249,62,53,115,1,1396,1
+nuria,2025-03-27,Internal Enterprise Server,Internal Systems Operator,12,0,2,0,1,3,6,2,0,0,0,3,0,3,0,0,0,0.0,0,0,0,0,0,0,12,1
+olaya,2025-03-27,Internal Enterprise Server,Internal Systems Operator,455,142,14,2,9,25,18,3,4,33,35,14,19,101,73,30,30,2033.31,210,159,18,10,28,0,142,1
+root,2025-03-27,Public Host / DMZ,Public Server Operator,117,35,48,0,69,117,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,69,1
+root(uid=0),2025-03-27,Red Team / Target Host,Endpoint Host Account,26,16,26,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,22,1
+ubuntu,2025-03-27,Red Team / Target Host,Endpoint Host Account,241,108,0,1,0,1,231,16,54,0,3,6,0,9,0,0,0,0.0,0,0,0,0,0,1,241,1
+ubuntu(uid=1000),2025-03-27,Red Team / Target Host,Endpoint Host Account,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh,2025-03-27,Red Team / Target Host,Endpoint Host Account,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+wazuh(uid=129),2025-03-27,Red Team / Target Host,Endpoint Host Account,8,2,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,8,1
+camilo,2025-03-28,Public Host / DMZ,Public Server Operator,234,51,8,0,5,13,0,0,0,29,27,7,7,70,4,1,0,122.93,114,94,16,17,33,0,0,0
+humberto,2025-03-28,Internal Enterprise Server,Internal Systems Operator,258,23,20,0,10,30,0,0,0,13,21,4,5,43,53,8,31,1505.11,127,105,2,3,5,0,0,0
+irene,2025-03-28,Public Host / DMZ,Public Server Operator,225,24,6,0,3,9,0,0,0,25,0,22,14,61,98,46,51,2748.93,52,45,2,3,5,0,0,0
+olaya,2025-03-28,Internal Enterprise Server,Internal Systems Operator,526,25,20,6,10,36,0,0,0,32,43,13,5,93,91,34,40,2516.11,290,194,8,8,16,1,0,0
+root,2025-03-28,Public Host / DMZ,Public Server Operator,177,66,57,0,120,177,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,147,1
+root(uid=0),2025-03-28,Red Team / Target Host,Endpoint Host Account,69,46,69,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,68,1
+ubuntu,2025-03-28,Red Team / Target Host,Endpoint Host Account,360,283,0,0,0,0,358,20,104,0,0,2,0,2,0,0,0,0.0,0,0,0,0,0,1,360,1
+ubuntu(uid=1000),2025-03-28,Red Team / Target Host,Endpoint Host Account,9,5,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,9,1
+wazuh,2025-03-28,Public Host / DMZ,Public Server Operator,3,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0.0,0,0,0,0,0,0,3,1
+wazuh(uid=129),2025-03-28,Red Team / Target Host,Endpoint Host Account,19,9,19,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,19,1
+camilo,2025-03-29,Public Host / DMZ,Public Server Operator,238,238,10,0,11,21,0,0,0,33,32,4,4,73,11,5,5,284.28,84,70,25,24,49,0,0,0
+gdm(uid=128),2025-03-29,Red Team / Target Host,Endpoint Host Account,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1
+humberto,2025-03-29,Internal Enterprise Server,Internal Systems Operator,264,264,30,0,16,46,0,0,0,15,26,2,1,44,38,17,12,1077.66,129,104,6,1,7,0,0,0
+impresora,2025-03-29,Public Host / DMZ,Public Server Operator,13,13,2,1,0,3,10,6,2,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,13,1
+irene,2025-03-29,Public Host / DMZ,Public Server Operator,435,435,6,0,2,8,21,9,8,45,0,4,5,54,208,81,74,6049.27,118,101,10,16,26,0,216,1
+olaya,2025-03-29,Internal Enterprise Server,Internal Systems Operator,584,584,28,6,13,47,0,0,0,36,59,23,25,143,74,28,23,2193.64,307,207,8,5,13,1,0,0
+root,2025-03-29,Public Host / DMZ,Public Server Operator,207,207,81,1,125,207,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,157,1
+root(uid=0),2025-03-29,Red Team / Target Host,Endpoint Host Account,46,46,46,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,45,1
+ubuntu,2025-03-29,Red Team / Target Host,Endpoint Host Account,595,595,0,2,0,2,590,18,114,0,0,3,0,3,0,0,0,0.0,0,0,0,0,0,1,595,1
+ubuntu(uid=1000),2025-03-29,Red Team / Target Host,Endpoint Host Account,8,8,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,8,1
+wazuh,2025-03-29,Red Team / Target Host,Endpoint Host Account,2,2,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1
+wazuh(uid=129),2025-03-29,Red Team / Target Host,Endpoint Host Account,9,9,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,9,1
+camilo,2025-03-30,Public Host / DMZ,Public Server Operator,240,240,12,0,8,20,0,0,0,24,25,8,7,64,12,4,5,392.66,96,82,22,26,48,0,1,1
+humberto,2025-03-30,Internal Enterprise Server,Internal Systems Operator,808,808,20,0,9,29,21,4,6,193,37,4,2,236,192,91,86,5895.12,265,187,37,28,65,0,557,1
+impresora,2025-03-30,Public Host / DMZ,Public Server Operator,7,7,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,1,7,1
+irene,2025-03-30,Public Host / DMZ,Public Server Operator,14770,14770,24,1,7,32,526,12,288,2544,10,12,3,2569,6512,2589,2194,191699.36,3901,837,632,598,1230,1,14552,1
+nuria,2025-03-30,Internal Enterprise Server,Internal Systems Operator,50,50,3,9,0,12,30,4,4,0,4,3,1,8,0,0,0,0.0,0,0,0,0,0,1,50,1
+olaya,2025-03-30,Internal Enterprise Server,Internal Systems Operator,614,614,6,19,1,26,5,3,1,60,32,11,0,103,107,42,33,3200.41,340,223,18,15,33,1,165,1
+root,2025-03-30,Public Host / DMZ,Public Server Operator,123,123,36,0,76,112,11,5,5,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,86,1
+root(uid=0),2025-03-30,Red Team / Target Host,Endpoint Host Account,49,49,49,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,48,1
+ubuntu,2025-03-30,Red Team / Target Host,Endpoint Host Account,1023,1023,0,2,0,2,827,21,241,0,132,58,4,194,0,0,0,0.0,0,0,0,0,0,1,1023,1
+ubuntu(uid=1000),2025-03-30,Red Team / Target Host,Endpoint Host Account,8,8,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,8,1
+wazuh,2025-03-30,Public Host / DMZ,Public Server Operator,3,3,0,0,0,0,1,1,1,0,2,0,0,2,0,0,0,0.0,0,0,0,0,0,0,3,1
+wazuh(uid=129),2025-03-30,Red Team / Target Host,Endpoint Host Account,9,9,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,9,1

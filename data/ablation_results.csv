@@ -1,0 +1,4 @@
+Approach,Detection Recall,False Positive Rate,Detection Latency
+Full System (As-Is),0.6326530612244898,0.09344047841524948,0.0
+Novelty 1 Disabled (Static Peer Baseline),0.9559748427672956,0.21827895439801565,0.0
+Novelty 2 Disabled (Flat Threshold Escalation),0.5534591194968553,0.09540164090822362,0.5
